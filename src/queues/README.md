@@ -9,7 +9,7 @@ Write a generic data type for a deque and a randomized queue. The goal of this a
 ## Note
 
 - Be ware of pointer moving to prevent loitering in `removeFirst` and `removeLast` in `Deque`:
-```
+```java
 Item item = first.item;
 Node newFirst = first.next;
 first = newFirst;
@@ -20,7 +20,7 @@ if (!isEmpty()) first.prev = null;
 
 VS
 
-```
+```java
 Item item = first.item;
 first = first.next;
 sz--;
