@@ -4,7 +4,7 @@ A program to estimate the value of the _percolation threshold_ via Monte Carlo s
 
 ## Usage
 
-Use [InteractivePercolationVisualizer.java](../../tests/percolation/InteractivePercolationVisualizer.java) and [PercolationVisualizer.java](../../tests/percolation/PercolationVisualizer.java) in the [test case](../../tests/percolation)
+Use [InteractivePercolationVisualizer.java](../../tests/percolation/InteractivePercolationVisualizer.java) and [PercolationVisualizer.java](../../tests/percolation/PercolationVisualizer.java) in the [tests](../../tests/percolation)
 
 ## Result
 
