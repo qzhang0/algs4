@@ -2,9 +2,9 @@
 
 A program to estimate the value of the _percolation threshold_ via Monte Carlo simulation. Check the programming assignment [specification](http://coursera.cs.princeton.edu/algs4/assignments/percolation.html) that describes the assignment requirements.
 
-## Usage
+## Testing
 
-Use [InteractivePercolationVisualizer.java](../../tests/percolation/InteractivePercolationVisualizer.java) and [PercolationVisualizer.java](../../tests/percolation/PercolationVisualizer.java) in the [test case](../../tests/percolation)
+Use [InteractivePercolationVisualizer.java](../../tests/percolation/InteractivePercolationVisualizer.java) and [PercolationVisualizer.java](../../tests/percolation/PercolationVisualizer.java) in the [Tests](../../tests/percolation)
 
 ## Result
 

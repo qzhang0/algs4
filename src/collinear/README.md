@@ -4,6 +4,10 @@
 
 Write a program to recognize line patterns in a given set of points. Check the programming assignment [specification](http://coursera.cs.princeton.edu/algs4/assignments/collinear.html) that describes the assignment requirements.
 
+## Testing
+
+[Tests](../../tests/collinear)
+
 ## Result
 
 [Report](../../reports/collinear_output)
