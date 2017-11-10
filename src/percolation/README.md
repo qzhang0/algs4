@@ -1,3 +1,5 @@
+# Percolation
+
 ## Summary
 
 A program to estimate the value of the _percolation threshold_ via Monte Carlo simulation. Check the programming assignment [specification](http://coursera.cs.princeton.edu/algs4/assignments/percolation.html) that describes the assignment requirements.
