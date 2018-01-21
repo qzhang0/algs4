@@ -12,3 +12,4 @@ This repository contains the Java source code of my work for Coursera Algorithms
 [Collinear](./src/collinear) | [100/100](./reports/collinear_output)
 [8 Puzzle](./src/8puzzle) | [100/100](./reports/8puzzle_output)
 [Kd Tree](./src/kdtree) | [82/100](./reports/kdtree_output)
+[Word Net](./src/wordnet) | [91/100](./reports/wordnet_output)
